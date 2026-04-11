@@ -15,4 +15,3 @@ ades
 hsedalgnaB
 """
 
-# 43 mintues pojonto dekha hoise next day theke type conversion start korte hobe. ajke string slicing er part sesh
