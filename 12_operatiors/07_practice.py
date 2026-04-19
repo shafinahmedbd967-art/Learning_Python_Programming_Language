@@ -6,4 +6,4 @@ print(True and bool(0))  # bool(0) False hobe, tarpor True and False hobe, tai o
 
 
 
-# 1 hoir 39 inute pojoto complete hoise 
+# 1 hour 39 inute pojoto complete hoise 
