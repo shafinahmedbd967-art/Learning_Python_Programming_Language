@@ -23,5 +23,3 @@ else:
 # output (jodi "hae" dei):
 # Lal rong!
 # Student discount pabe!
-
-# 1 hour 54 minutes pojonto done  
